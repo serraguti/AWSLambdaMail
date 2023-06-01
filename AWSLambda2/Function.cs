@@ -10,7 +10,14 @@ namespace AWSLambda2;
 
 public class Function
 {
-    
+    /*
+     * JSON DE EJEMPLO
+     {
+        "Nombre": "Alumno",
+        "Email": "alumno@gmail.com",
+        "Edad": 25
+     }
+     */
     /// <summary>
     /// A simple function that takes a string and does a ToUpper
     /// </summary>
